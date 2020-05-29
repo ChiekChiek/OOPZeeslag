@@ -1,2 +1,2 @@
 # OOPZeeslag
-De OOP github voor de Zeeslag project.
+De OOP github voor de Zeeslag project!
