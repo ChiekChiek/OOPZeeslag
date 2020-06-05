@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -26,6 +33,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -46,7 +54,8 @@
       <option name="presentableId" value="Default" />
       <updated>1590741414472</updated>
       <workItem from="1590741416282" duration="713000" />
-      <workItem from="1591259401717" duration="1272000" />
+      <workItem from="1591259401717" duration="1944000" />
+      <workItem from="1591347055613" duration="2216000" />
     </task>
     <servers />
   </component>
@@ -58,13 +67,18 @@
       <screen x="1920" y="95" width="1804" height="1008" />
     </state>
     <state x="2276" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264617206" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1591348338737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591348338737" />
     <state x="2602" y="353" key="FileChooserDialogImpl" timestamp="1591264661195">
       <screen x="1920" y="95" width="1804" height="1008" />
     </state>
     <state x="2602" y="353" key="FileChooserDialogImpl/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264661195" />
-    <state x="2302" y="173" key="SettingsEditor" timestamp="1591264721224">
-      <screen x="1920" y="95" width="1804" height="1008" />
+    <state x="407" y="80" width="1169" height="708" key="SettingsEditor" timestamp="1591348213537">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="407" y="80" width="1169" height="708" key="SettingsEditor/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591348213537" />
     <state x="2302" y="173" key="SettingsEditor/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264721224" />
     <state x="2103" y="220" key="new project wizard" timestamp="1591264308739">
       <screen x="1920" y="95" width="1804" height="1008" />
