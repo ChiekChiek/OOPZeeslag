@@ -30,7 +30,7 @@
     <property name="last_opened_file_path" value="F:/Google drive/Graafschap College/Leerjaar 2 JavaFX _ Java/L2_Opdracht_1_PizzaBestelling_v2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
@@ -85,7 +85,7 @@
       <workItem from="1591259401717" duration="1944000" />
       <workItem from="1591347055613" duration="2217000" />
       <workItem from="1591440647925" duration="610000" />
-      <workItem from="1591603646649" duration="3563000" />
+      <workItem from="1591603646649" duration="4131000" />
     </task>
     <servers />
   </component>
@@ -118,10 +118,26 @@
     </state>
     <state x="726" y="266" key="FileChooserDialogImpl/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591604698672" />
     <state x="2602" y="353" key="FileChooserDialogImpl/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264661195" />
-    <state x="407" y="80" width="1169" height="708" key="SettingsEditor" timestamp="1591606646202">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591607234066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="407" y="80" width="1169" height="708" key="SettingsEditor/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591606646202" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591607234066" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591607234066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591607234066" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591607234066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591607234066" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591607234066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591607234066" />
+    <state x="407" y="80" width="1169" height="708" key="SettingsEditor" timestamp="1591607781088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="407" y="80" width="1169" height="708" key="SettingsEditor/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591607781088" />
     <state x="2302" y="173" key="SettingsEditor/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264721224" />
     <state x="2103" y="220" key="new project wizard" timestamp="1591264308739">
       <screen x="1920" y="95" width="1804" height="1008" />
