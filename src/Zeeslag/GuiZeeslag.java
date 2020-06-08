@@ -6,5 +6,6 @@ public class GuiZeeslag
 {
     public GuiZeeslag(GridPane root)
     {
+
     }
 }

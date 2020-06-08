@@ -27,12 +27,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Zeeslag" />
+    <property name="last_opened_file_path" value="F:/Google drive/Graafschap College/Leerjaar 2 JavaFX _ Java/L2_Opdracht_1_PizzaBestelling_v2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
@@ -42,6 +42,34 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rutge\Documents\GitHub\OOPZeeslag\src\Zeeslag" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zeeslag.Main" />
+      <module name="OOPZeeslag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zeeslag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeeslagEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZeeslagEngine" />
+      <module name="OOPZeeslag" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ZeeslagEngine" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,7 +83,9 @@
       <updated>1590741414472</updated>
       <workItem from="1590741416282" duration="713000" />
       <workItem from="1591259401717" duration="1944000" />
-      <workItem from="1591347055613" duration="2216000" />
+      <workItem from="1591347055613" duration="2217000" />
+      <workItem from="1591440647925" duration="610000" />
+      <workItem from="1591603646649" duration="2998000" />
     </task>
     <servers />
   </component>
@@ -63,6 +93,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1591605159567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591605159567" />
     <state x="2276" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591264617206">
       <screen x="1920" y="95" width="1804" height="1008" />
     </state>
@@ -71,14 +105,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591348338737" />
-    <state x="2602" y="353" key="FileChooserDialogImpl" timestamp="1591264661195">
-      <screen x="1920" y="95" width="1804" height="1008" />
-    </state>
-    <state x="2602" y="353" key="FileChooserDialogImpl/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264661195" />
-    <state x="407" y="80" width="1169" height="708" key="SettingsEditor" timestamp="1591348213537">
+    <state x="725" y="414" width="469" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591604320579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="407" y="80" width="1169" height="708" key="SettingsEditor/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591348213537" />
+    <state x="725" y="414" width="469" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591604320579" />
+    <state x="746" y="153" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591605983489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="153" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591605983489" />
+    <state x="726" y="266" key="FileChooserDialogImpl" timestamp="1591604698672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="726" y="266" key="FileChooserDialogImpl/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591604698672" />
+    <state x="2602" y="353" key="FileChooserDialogImpl/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264661195" />
+    <state x="407" y="80" width="1169" height="708" key="SettingsEditor" timestamp="1591606646202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="407" y="80" width="1169" height="708" key="SettingsEditor/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591606646202" />
     <state x="2302" y="173" key="SettingsEditor/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264721224" />
     <state x="2103" y="220" key="new project wizard" timestamp="1591264308739">
       <screen x="1920" y="95" width="1804" height="1008" />

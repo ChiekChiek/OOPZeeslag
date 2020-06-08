@@ -4,23 +4,23 @@ import java.util.ArrayList;
 
 public class Bord
 {
-    ArrayList<schip> schips;
+    ArrayList<Schip> Schips;
 
 //    Constructor
-    public Bord(ArrayList<schip> schips)
+    public Bord(ArrayList<Schip> Schips)
     {
-        this.schips = schips;
+        this.Schips = Schips;
     }
 
 //    get-set arraylist schip
-    public ArrayList<schip> getSchips()
+    public ArrayList<Schip> getSchips()
     {
-        return schips;
+        return Schips;
     }
 
-    public void setSchips(ArrayList<schip> schips)
+    public void setSchips(ArrayList<Schip> Schips)
     {
-        this.schips = schips;
+        this.Schips = Schips;
     }
 
 
