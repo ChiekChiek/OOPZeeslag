@@ -5,7 +5,7 @@ import java.sql.*;
 public class DatabaseConnector
 {
 
-    public void runDatabase(String args[])
+    public void runDatabase()
     {
         try
         {
