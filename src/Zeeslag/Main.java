@@ -15,7 +15,7 @@ public class Main extends Application
     @Override
     public void start(Stage primaryStage){
         GridPane root = new GridPane();
-        new GuiZeeslag(root);
+        new GuiHost(root);
         primaryStage.setTitle("Zeeslag");
         Scene scene = new Scene(root, 500, 300);
         primaryStage.setScene(scene);
