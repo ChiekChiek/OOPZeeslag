@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f264355-ee3e-4c7f-99ad-30e1fd94c7ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zeeslag/DatabaseConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zeeslag/DatabaseConnector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,7 @@
       <workItem from="1591440647925" duration="610000" />
       <workItem from="1591603646649" duration="3563000" />
       <workItem from="1591607776903" duration="1677000" />
-      <workItem from="1591863178783" duration="1957000" />
+      <workItem from="1591863178783" duration="2643000" />
     </task>
     <servers />
   </component>
