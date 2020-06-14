@@ -2,7 +2,7 @@ package Zeeslag;
 
 import java.util.ArrayList;
 
-public class Schip
+public class Schip2
 {
     String name;
     ArrayList<Position> posities;
@@ -10,17 +10,18 @@ public class Schip
 
 //    Constructor
 
-    public Schip(String name, ArrayList<Position> posities, Boolean allhit)
+    public Schip2(String name, ArrayList<Position> posities, Boolean allhit)
     {
         this.name = name;
         this.posities = posities;
         this.allhit = allhit;
     }
 
-//    get-set Name
+    //    get-set Name
     public String getName()
     {
         return name;
+
     }
 
     public void setName(String name)
@@ -28,7 +29,7 @@ public class Schip
         this.name = name;
     }
 
-//    get-set position
+    //    get-set position
     public ArrayList<Position> getPosities()
     {
         return posities;
@@ -39,7 +40,7 @@ public class Schip
         this.posities = posities;
     }
 
-//    get-set all_hit
+    //    get-set all_hit
     public Boolean getAllhit()
     {
         return allhit;
