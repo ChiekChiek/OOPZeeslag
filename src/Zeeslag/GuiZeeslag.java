@@ -11,7 +11,6 @@ import javafx.fxml.FXMLLoader;
 public class GuiZeeslag
 {
     private final Button buttonHostGame, buttonJoinGame;
-    private boolean showbutton = true;
 
     public GuiZeeslag(GridPane root)
     {
@@ -22,6 +21,7 @@ public class GuiZeeslag
         {
             new GuiJoin(root);
             buttonJoinGame.setDisable(true);
+            buttonHostGame.setDisable(false);
 
 
 
@@ -29,7 +29,9 @@ public class GuiZeeslag
 
         buttonHostGame.setOnAction(event ->
         {
-
+            new GuiJoin(root);
+            buttonHostGame.setDisable(true);
+            buttonJoinGame.setDisable(false);
         });
 
         root.add(buttonHostGame, 3, 1);

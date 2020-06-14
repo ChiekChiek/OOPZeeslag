@@ -12,15 +12,21 @@ public class GuiHost
     private TextField txbDbPassword,txbDbName,txbGameName;
 
     public GuiHost(GridPane root){
+
         Label lblDbPassword = new Label("Paswword :");
         Label lblDbName = new Label("Database :");
         Label lblDbGamename = new Label("Game name:");
         TextField txtbDbPassword = new TextField();
         TextField txtbDbName = new TextField();
         TextField txtbDbGameName = new TextField();
+
+
         buttonConnectGame = new Button("Make Game");
 
-        buttonConnectGame.setOnAction(event ->{
+        buttonConnectGame.setOnAction(event ->
+        {
+
+
         });
 
         root.add(buttonConnectGame,3,5);
