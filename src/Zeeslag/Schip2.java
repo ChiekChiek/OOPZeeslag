@@ -2,25 +2,27 @@ package Zeeslag;
 
 import java.util.ArrayList;
 
-public class Schip
+public class Schip2
 {
-    String name;
-    ArrayList<Position> posities;
-    Boolean allhit = false;
+
+    private String name;
+    private ArrayList<Position> positieslist;
+    private Boolean allhit = false;
 
 //    Constructor
 
-    public Schip(String name, ArrayList<Position> posities, Boolean allhit)
+    public Schip2(String name)
     {
         this.name = name;
-        this.posities = posities;
-        this.allhit = allhit;
+        positieslist = new ArrayList<>();
+
     }
 
-//    get-set Name
+    //    get-set Name
     public String getName()
     {
         return name;
+
     }
 
     public void setName(String name)
@@ -28,18 +30,18 @@ public class Schip
         this.name = name;
     }
 
-//    get-set position
+    //    get-set position
     public ArrayList<Position> getPosities()
     {
-        return posities;
+        return positieslist;
     }
 
     public void setPosities(ArrayList<Position> posities)
     {
-        this.posities = posities;
+        this.positieslist = posities;
     }
 
-//    get-set all_hit
+    //    get-set all_hit
     public Boolean getAllhit()
     {
         return allhit;
