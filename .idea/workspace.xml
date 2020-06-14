@@ -16,10 +16,21 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:hostgui1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f264355-ee3e-4c7f-99ad-30e1fd94c7ec" name="Default Changelist" comment="" />
+    <list default="true" id="8f264355-ee3e-4c7f-99ad-30e1fd94c7ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPZeeslag/Zeeslag/GuiZeeslag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zeeslag/GuiZeeslag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zeeslag/GuiZeeslag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zeeslag/schip.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +135,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hostgui1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -144,9 +167,10 @@
       <screen x="1920" y="95" width="1804" height="1008" />
     </state>
     <state x="2276" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264617206" />
-    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1591865503026">
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1591872012745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1591872012745" />
     <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591865503026" />
     <state x="725" y="414" width="469" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591604320579">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -161,21 +185,25 @@
     </state>
     <state x="726" y="266" key="FileChooserDialogImpl/1920.95.1804.1008/0.0.1920.1040@0.0.1920.1040" timestamp="1591604698672" />
     <state x="2602" y="353" key="FileChooserDialogImpl/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264661195" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591609756095">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1591949518954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1591949518954" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591609756095" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591609756095">
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1591949518954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1591949518954" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591609756095" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591609756095">
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1591949518954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1591949518954" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591609756095" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591609756095">
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1591949518954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1591949518954" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591609756095" />
     <state x="407" y="80" width="1169" height="708" key="SettingsEditor" timestamp="1591607911225">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -187,5 +215,9 @@
       <screen x="1920" y="95" width="1804" height="1008" />
     </state>
     <state x="2103" y="220" key="new project wizard/1920.95.1804.1008/0.0.1920.1040@1920.95.1804.1008" timestamp="1591264308739" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591868176537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1591868176537" />
   </component>
 </project>
