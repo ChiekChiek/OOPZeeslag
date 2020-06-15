@@ -22,6 +22,8 @@ public class GuiZeeslag
             new GuiJoin(root);
             buttonJoinGame.setDisable(true);
             buttonHostGame.setDisable(false);
+            buttonHostGame.setVisible(false);
+            buttonJoinGame.setVisible(false);
 
 
 
@@ -32,6 +34,8 @@ public class GuiZeeslag
             new GuiJoin(root);
             buttonHostGame.setDisable(true);
             buttonJoinGame.setDisable(false);
+            buttonHostGame.setVisible(false);
+            buttonJoinGame.setVisible(false);
         });
 
         root.add(buttonHostGame, 3, 1);
