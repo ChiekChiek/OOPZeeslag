@@ -31,7 +31,7 @@ public class GuiZeeslag
 
         buttonHostGame.setOnAction(event ->
         {
-            new GuiJoin(root);
+            new GuiHost(root);
             buttonHostGame.setDisable(true);
             buttonJoinGame.setDisable(false);
             buttonHostGame.setVisible(false);
